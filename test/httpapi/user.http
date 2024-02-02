@@ -1,0 +1,6 @@
+POST http://localhost:8000/users/login
+
+{
+  "email": "john.doe@gmail.com",
+  "password": "password"
+}
